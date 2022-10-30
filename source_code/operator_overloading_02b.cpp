@@ -1,4 +1,4 @@
-// operator_overloading_02b.cpp
+// operator_overloading_03.cpp
 //
 
 #include <iostream>
@@ -19,7 +19,7 @@ public:
 
     Tiny_Class operator -- (int) {
         Tiny_Class result_object;
-        result_object.my_id = --my_id;
+        result_object.my_id = my_id--;
 
         return result_object;
     }
