@@ -14,8 +14,8 @@ public:
     Tiny_Class(int ipt = 0) { my_id = ipt; } // constructor
     int get_id() { return my_id; }
 
-    // the function below is called when the "+" operator is
-    // implemented between Tiny_Class objects
+    // the function below is called when the
+    // "--" prefix operator is implemented
 
     Tiny_Class operator -- () {
         Tiny_Class result_object;
