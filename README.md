@@ -1,2 +1,19 @@
-# object-oriented-programming-07
-An introduction to C++ (#7)
+# Εισαγωγή στον Αντικειμενοστραφή Προγραμματισμό
+## Category: pit stop
+
+- [ ] Υπερφόρτωση (τελεστών και συναρτήσεων)
+- [ ] Κληρονομικότητα
+- [ ] ...
+
+
+...under construnction!
+
+## Πηγές
+* [cgi.di.uoa.gr/~izambo/oop.html](https://cgi.di.uoa.gr/~izambo/oop.html)
+* [w3schools.com](https://www.w3schools.com)
+* [cplusplus.com](https://cplusplus.com)
+* [cppreference.com](https://en.cppreference.com/w/)
+
+---
+
+Ιδιαίτερες ευχαριστίες στην κ. [Ιζαμπώ Καράλη](https://cgi.di.uoa.gr/~izambo/GR.html) και την εκπαιδευτική ομάδα της για το πολύτιμο υλικό που μας παρείχαν
