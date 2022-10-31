@@ -3,8 +3,6 @@
 
 #include <iostream>
 
-using namespace std;
-
 int sum() { return 1; }
 float sum() { return 1.0; }
 
