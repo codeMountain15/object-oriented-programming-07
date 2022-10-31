@@ -12,7 +12,7 @@ float sum() { return 1.0; }
 // compiler error
 
 
-int main()
-{
+int main(){
+    // ...
     return 0;
 }
