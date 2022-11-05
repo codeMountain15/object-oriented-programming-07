@@ -12,10 +12,10 @@ protected:
     unsigned short int height;
 
 public:
-    void set_width(int w) {
+    void set_width(unsigned short int w) {
         width = w;
     }
-    void set_height(int h) {
+    void set_height(unsigned short int h) {
         height = h;
     }
 };
