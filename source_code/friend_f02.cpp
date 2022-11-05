@@ -1,5 +1,5 @@
 // friend_f02.cpp 
-// with friend function overloaning
+// with friend function overloading
 
 #include <iostream>
 using namespace std;
