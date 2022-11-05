@@ -50,4 +50,5 @@ int main(void) {
     tr.set_height(10);
     cout << "Embadon of triangle is: " << tr.emvadon() << endl;
 
-    retur
+    return 0;
+}
