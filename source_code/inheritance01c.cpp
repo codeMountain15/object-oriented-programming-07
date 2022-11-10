@@ -12,7 +12,7 @@ private:
     unsigned short int height;
 
 public:
-    Shape(unsigned short int w, unsigned short int h) : width(w), height(h) {};
+    Shape(unsigned short int w, unsigned short int h) : width(w), height(h) {}; // initialization-list constructor
     unsigned short int get_width() const { return width; }
     unsigned short int get_height() const { return height; };
 };
